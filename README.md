@@ -1,6 +1,7 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, MongoDB, Streamlit, Pandas, Numpy, Scikit-learn, Plotly, Matplotlib, Seaborn
+
 
 ## EDUCATION
  - Bachelor's Degree in Mathematics
